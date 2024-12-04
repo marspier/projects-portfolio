@@ -10,7 +10,7 @@ Welcome to my project portfolio. Below are links to my projects:
 
 
 - # Representation and Reporting
--[Representation and Reporting-Customer Churn Patterns and Behavior](https://github.com/marspier/Representation-and-Reporting-D210.git)
+- [Representation and Reporting-Customer Churn Patterns and Behavior](https://github.com/marspier/Representation-and-Reporting-D210.git)
   
 
 

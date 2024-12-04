@@ -9,11 +9,11 @@ Welcome to my project portfolio. Below are links to my projects:
 - [Data Mining II-Customer Behavior Patterns in Market Basket Analysis](https://github.com/marspier/Data-Mining-II-T3.git)
 
 
-- # Representation and Reporting
+- # Representation and Reporting: Tableau
 - [Representation and Reporting-Customer Churn Patterns and Behavior](https://github.com/marspier/Representation-and-Reporting-D210.git)
   
-
-
+- # Exploration of The Data : SQL & Tableau 
+-[Exploration of The Data-Finding Patterns & Trends Regarding Chipotle & Telelink locations]
 
 
 

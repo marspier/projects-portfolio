@@ -5,7 +5,7 @@ Welcome to my project portfolio. Below are links to my projects:
 ## Projects
 
 - # Data Mining I Projects
--  [Data Mining I - Predictive Method: Decision trees]
+-  [Data Mining I - Predictive Method: Decision trees](https://github.com/marspier/Data-Mining-I-T2.git)
 
 
 - # Data Mining II Projects

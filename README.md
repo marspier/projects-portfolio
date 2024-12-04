@@ -13,7 +13,7 @@ Welcome to my project portfolio. Below are links to my projects:
 - [Representation and Reporting-Customer Churn Patterns and Behavior](https://github.com/marspier/Representation-and-Reporting-D210.git)
   
 - # Exploration Of The Data : SQL & Tableau 
--[Exploration of The Data-Finding Patterns & Trends Regarding Chipotle & Telelink locations]
+- [Exploration of The Data-Finding Patterns & Trends Regarding Chipotle & Telelink locations]
 
 
 

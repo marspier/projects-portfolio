@@ -18,6 +18,6 @@ Welcome to my project portfolio. Below are links to my projects:
   ## [Explore My Tableau Visualizations](https://public.tableau.com/views/D210Final_17145851576070/Story1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link/profile/marspier#!/) 
 - # Exploration Of The Data : SQL & Tableau 
 - [Exploration of The Data-Finding Patterns & Trends Regarding Chipotle & Telelink locations](https://github.com/marspier/Exploration-of-The-Data-Finding-Patterns-Trends-Regarding-Chipotle-Telelink-locations.git)
-
+ ## [Explore My Tableau Visualizations](https://public.tableau.com/views/D211_17254178947010/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
 
 

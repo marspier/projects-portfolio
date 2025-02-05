@@ -4,7 +4,7 @@ Welcome to my project portfolio. Below are links to my projects:
 
 ## Projects
 
-- # Data exploration 
+- # Data Exploration 
 - [Data Exploration I- Breaking the Cycle: Analyzing Readmissions in Healthcare](https://github.com/marspier/Data-Exploration.git) 
 
 - # Data Mining I Projects
